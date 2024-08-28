@@ -3,7 +3,7 @@
 
 name: Maven Package
 
-on: pull
+on: pull  , workflow_dispatch
 
 
 jobs:
