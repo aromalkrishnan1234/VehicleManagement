@@ -3,9 +3,8 @@
 
 name: Maven Package
 
-on:
-  release:
-    types: [created]
+on: pull
+
 
 jobs:
   build:
